@@ -6,8 +6,8 @@ dataset: https://github.com/Mr-Morningperson/germany-versions/releases
 declarations: https://github.com/Mr-Morningperson/germany-declarations
 versions: https://github.com/Mr-Morningperson/germany-versions
 snapshots: https://github.com/Mr-Morningperson/germany-snapshots
-donations: ''
-logo: ''
+donations: 'https://github.com/Mr-Morningperson/germany-declarations'
+logo: 'https://www.hochschule-rhein-waal.de/sites/default/files/images/2024/04/03/crl_primary.png'
 languages: []
 jurisdictions: []
 trackingPeriods:
@@ -16,6 +16,6 @@ trackingPeriods:
     serverLocation: ''
 governance:
   Mr-Morningperson:
-    url: ''
-    logo: ''
-    roles: [administrator, curator, maintainer]
+    url: 'https://github.com/Mr-Morningperson/germany-declarations'
+    logo: 'https://www.hochschule-rhein-waal.de/sites/default/files/images/2024/04/03/crl_primary.png'
+    roles: [sysadmin]
