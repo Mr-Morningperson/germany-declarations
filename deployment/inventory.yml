@@ -1,6 +1,6 @@
 all:
   hosts:
-    <your_server_hostname>:
+    194.164.48.65:
       ansible_user: <your_server_username>
       ed25519_fingerprint: <your_server_ssh_fingerprint>
       ota_source_repository: <your_repository_url>
